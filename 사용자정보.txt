@@ -1,2 +1,3 @@
 username: wjdcksdlr564
 email: wjdcksdlr564@naver.com
+name: ChanIk Jeong
